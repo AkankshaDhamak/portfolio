@@ -8,7 +8,7 @@ function Hero() {
 
       {/* Resume Button */}
       <a
-        href="\Dhamak Akanksha resume.pdf"
+        href="\AkankshaDhamak_8623026497.pdf"
         className="btn"
         target="_blank"
         rel="noopener noreferrer"
